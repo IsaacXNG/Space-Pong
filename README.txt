@@ -1,5 +1,4 @@
-Author: Xiaoning Guo
-NetID: xguo24 
+Author: Xiaoning "Isaac" Guo
 Project: 4
 Lab: T,R / 11:05-12:20
 
