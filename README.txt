@@ -1,4 +1,6 @@
 Author: Xiaoning "Isaac" Guo
+Project: 4
+Lab: T,R / 11:05-12:20
 
 DISCLAIMER: Most of the pictures are taken from Google images. Links to the sources are found in this folder.
 
