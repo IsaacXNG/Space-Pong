@@ -1,13 +1,8 @@
 Author: Xiaoning "Isaac" Guo
-Project: 4
-Lab: T,R / 11:05-12:20
 
 DISCLAIMER: Most of the pictures are taken from Google images. Links to the sources are found in this folder.
 
-NOTE: STAGE 4 IS NOT A MISTAKE. 
-
-Instructions:	To play, simply click on the Jar file and execute as Java Binary SE. 
-		Or import the project into Eclipse and run the Driver class.
+Instructions:	Run Driver.class
 
 		To test each level, go to line 101 in the Canvas class and change the StageNumber to the level you want to play.
 		To win any level, go to line 271 in the Canvas class and change the time to 1.
@@ -34,9 +29,3 @@ About the game:	The object of the game is to prevent the ball from falling below
 
 How to score points: Rebouncing the ball yields between 40-60 points each. Winning the entire game adds 1000x the number of 
 		     lives remaining.
-
-Bonus features: Persistent Hiscore UI 
-		Sick photoshop (hand-drawn ball, bar, instruction slides)
-		Flashing press to continue prompt
-		File menu with Restart Game button
-	
